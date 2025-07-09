@@ -1,0 +1,47 @@
+Project Concept: Kingdoms Telegram
+
+Overview:
+Kingdoms Telegram is a Telegram-based game that blends strategy, community building, and play-to-earn mechanics in a fantasy kingdom setting. Every player assumes a role within the realm. Whether rich or poor, each user can participate and profit — either through effort or investment.
+
+Core Gameplay
+Upon joining the game, the player is presented with a selection of chests. Each chest contains a unique character with a distinct animation, role, and rarity level. Once a chest is opened, the character is minted as an NFT — tradable and upgradable. Rarer chests contain fewer, more exclusive characters with better design, rare clothing, and unique animations.
+
+Each player can only open one chest per account and may customize their character (including gender selection).
+
+Chest System & Roles
+
+Chest | Cost | Role | Mechanics
+------|------|------|-----------
+Beggar | Free | Must invite friends and make social posts to earn in-game coins.
+Lumberjack | 5 TON | Taps to harvest wood daily, upgrades forest location.
+Miner | 10 TON | Extracts ore and resources, upgrades the mine.
+Fisherman | 15 TON | Daily fish drops, with skill-based upgrades.
+Hunter | 25 TON | Hunts animals for meat, essential for advanced resource gathering.
+Guard | 35 TON | Patrols the kingdom, participates in wars.
+Priest | 77 TON | Select from one of 4 religions. Daily prayers increase luck for the kingdom and yield influence.
+Trader | 200 TON | Gains access to the resource exchange and staking mechanisms.
+Baron | 1,000 TON | Earns passive income from lands and buildings. Can construct within the kingdom and tax citizens.
+King | 10,000 TON | Rules over the realm. Collects tribute from all Barons. Can organize wars, tournaments, monuments, and festivals.
+
+Dynamic Politics & Warfare
+- Kings can declare wars to conquer, defend, or punish.
+- If a King loses a war, they lose passive income for 7 days and must pay tribute or cede rights to another King.
+- The same kingdoms cannot engage in war more than once per month with each other.
+- Wars require hiring more soldiers and mercenaries, fortifying castles, and strategically managing the army.
+
+Resources & Economy
+- Basic Resources: Wood, Stone, Fish, Meat.
+- Used for building, crafting, and warfare.
+- Fish and Meat are required for mining, chopping, and all daily resource collection.
+- Construction relies on Wood and Stone (mainly controlled by Barons).
+- Trade is handled via decentralized exchange features, led by Traders.
+
+Monetization & Progression
+- Free-to-play users can rise through effort: inviting friends, participating in daily tasks, and contributing to wars or religious events.
+- Wealthy players can invest to speed up resource collection, gain prestige, and influence the in-game economy.
+- All players may trade characters, lands, and items via blockchain — creating an open economy with real-world value.
+
+Vision
+Kingdoms Telegram is designed to be more than just a game — it is a mini-society, a living digital economy, where everyone can find their role, rise through merit or wealth, and participate in storytelling, alliances, and conflict.
+
+A project where developers, creators, and players all earn and build together.
